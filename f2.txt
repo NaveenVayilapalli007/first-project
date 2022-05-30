@@ -1,3 +1,5 @@
 second file created in feature1
 
 second line added in the feature1 branch
+
+third line added by the feature2 branch
