@@ -1,3 +1,5 @@
 first file created in feature1
 
 second line added in the feature1
+
+third line added by the feature2
