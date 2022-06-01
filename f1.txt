@@ -1,5 +1,3 @@
 
 
-second line added in the feature1
-
-third line added by the feature2
+second line added by the master branch
