@@ -1,6 +1,1 @@
-
-
-second line added by the master branch
-first line added by feature 1
-
-
+f1 file modified in remote master branch
