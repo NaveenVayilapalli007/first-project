@@ -1,1 +1,1 @@
-file 1 changed in master local branch with another commit
+f1 file modified in remote master branch with another commit
