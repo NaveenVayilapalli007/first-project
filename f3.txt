@@ -1,3 +1,1 @@
-third file created in feature1
-
-second line added by the feature2 branch
+f3 file modified by local master branch
